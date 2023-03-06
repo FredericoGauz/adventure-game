@@ -1,0 +1,21 @@
+node_modules
+
+# YARN
+.pnp.*
+.yarn/*
+!.yarn/patches
+!.yarn/plugins
+!.yarn/releases
+!.yarn/sdks
+!.yarn/versions
+yarn-error.log
+
+
+#DIST
+dist
+dist-ssr
+
+#OTHERS
+.DS_Store
+
+*.local
